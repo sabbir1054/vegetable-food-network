@@ -15,6 +15,7 @@ header #navigation {
   display: flex;
   justify-content: flex-end;
   margin-bottom: 50px;
+  box-shadow: 10px 10px 130px rgb(0 0 0 / 50%);
 
   padding-right: 200px;
 }
@@ -143,7 +144,7 @@ header #navigation ul li:hover {
   height: 528px;
   padding: 0px 30px;
   border-radius: 30px;
-  box-shadow: 10px 10px 34px #7f7171;
+  box-shadow: -14px -11px 49px #dedede;
 }
 #recipes .recipe-cards .card img {
   margin-top: 30px;
@@ -167,7 +168,7 @@ header #navigation ul li:hover {
   color: #ff1e1e;
   padding-bottom: 50px;
   border-radius: 50px;
-  box-shadow: 10px 10px 47px rgb(216, 191, 191);
+  box-shadow: 10px 10px 47px rgb(220 220 220);
   margin-bottom: 100px;
 }
 #social-platform .header {
